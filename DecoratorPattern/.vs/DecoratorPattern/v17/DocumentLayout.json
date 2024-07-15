@@ -1,12 +1,139 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Coding\\DesignPattern\\DesignPattern\\DecoratorPattern\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\Coding\\EfCoreLearning\\DecoratorPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{736D0C46-AB98-4772-BC78-2B6FB261480F}|DecoratorPattern\\DecoratorPattern.csproj|e:\\coding\\efcorelearning\\decoratorpattern\\decoratorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736D0C46-AB98-4772-BC78-2B6FB261480F}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736D0C46-AB98-4772-BC78-2B6FB261480F}|DecoratorPattern\\DecoratorPattern.csproj|e:\\coding\\efcorelearning\\decoratorpattern\\decoratorpattern\\condimentsimp\\soy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736D0C46-AB98-4772-BC78-2B6FB261480F}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condimentsimp\\soy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736D0C46-AB98-4772-BC78-2B6FB261480F}|DecoratorPattern\\DecoratorPattern.csproj|e:\\coding\\efcorelearning\\decoratorpattern\\decoratorpattern\\beverageimp\\blackroast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736D0C46-AB98-4772-BC78-2B6FB261480F}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\beverageimp\\blackroast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736D0C46-AB98-4772-BC78-2B6FB261480F}|DecoratorPattern\\DecoratorPattern.csproj|e:\\coding\\efcorelearning\\decoratorpattern\\decoratorpattern\\condiments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736D0C46-AB98-4772-BC78-2B6FB261480F}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condiments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736D0C46-AB98-4772-BC78-2B6FB261480F}|DecoratorPattern\\DecoratorPattern.csproj|e:\\coding\\efcorelearning\\decoratorpattern\\decoratorpattern\\condimentsimp\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736D0C46-AB98-4772-BC78-2B6FB261480F}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\condimentsimp\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736D0C46-AB98-4772-BC78-2B6FB261480F}|DecoratorPattern\\DecoratorPattern.csproj|e:\\coding\\efcorelearning\\decoratorpattern\\decoratorpattern\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{736D0C46-AB98-4772-BC78-2B6FB261480F}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736D0C46-AB98-4772-BC78-2B6FB261480F}|DecoratorPattern\\DecoratorPattern.csproj|e:\\coding\\efcorelearning\\decoratorpattern\\decoratorpattern\\decoratorpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{736D0C46-AB98-4772-BC78-2B6FB261480F}|DecoratorPattern\\DecoratorPattern.csproj|solutionrelative:decoratorpattern\\decoratorpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Soy.cs",
+              "DocumentMoniker": "E:\\Coding\\EfCoreLearning\\DecoratorPattern\\DecoratorPattern\\condimentsImp\\Soy.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\condimentsImp\\Soy.cs",
+              "ToolTip": "E:\\Coding\\EfCoreLearning\\DecoratorPattern\\DecoratorPattern\\condimentsImp\\Soy.cs",
+              "RelativeToolTip": "DecoratorPattern\\condimentsImp\\Soy.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAewAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:58:48.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "E:\\Coding\\EfCoreLearning\\DecoratorPattern\\DecoratorPattern\\Beverage.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Beverage.cs",
+              "ToolTip": "E:\\Coding\\EfCoreLearning\\DecoratorPattern\\DecoratorPattern\\Beverage.cs",
+              "RelativeToolTip": "DecoratorPattern\\Beverage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:25:07.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Condiments.cs",
+              "DocumentMoniker": "E:\\Coding\\EfCoreLearning\\DecoratorPattern\\DecoratorPattern\\Condiments.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Condiments.cs",
+              "ToolTip": "E:\\Coding\\EfCoreLearning\\DecoratorPattern\\DecoratorPattern\\Condiments.cs",
+              "RelativeToolTip": "DecoratorPattern\\Condiments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:23:11.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Milk.cs",
+              "DocumentMoniker": "E:\\Coding\\EfCoreLearning\\DecoratorPattern\\DecoratorPattern\\condimentsImp\\Milk.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\condimentsImp\\Milk.cs",
+              "ToolTip": "E:\\Coding\\EfCoreLearning\\DecoratorPattern\\DecoratorPattern\\condimentsImp\\Milk.cs",
+              "RelativeToolTip": "DecoratorPattern\\condimentsImp\\Milk.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAawBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:12:27.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlackRoast.cs",
+              "DocumentMoniker": "E:\\Coding\\EfCoreLearning\\DecoratorPattern\\DecoratorPattern\\beverageImp\\BlackRoast.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\beverageImp\\BlackRoast.cs",
+              "ToolTip": "E:\\Coding\\EfCoreLearning\\DecoratorPattern\\DecoratorPattern\\beverageImp\\BlackRoast.cs",
+              "RelativeToolTip": "DecoratorPattern\\beverageImp\\BlackRoast.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAewBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T08:09:11.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DecoratorPattern",
+              "DocumentMoniker": "E:\\Coding\\EfCoreLearning\\DecoratorPattern\\DecoratorPattern\\DecoratorPattern.csproj",
+              "RelativeDocumentMoniker": "DecoratorPattern\\DecoratorPattern.csproj",
+              "ToolTip": "E:\\Coding\\EfCoreLearning\\DecoratorPattern\\DecoratorPattern\\DecoratorPattern.csproj",
+              "RelativeToolTip": "DecoratorPattern\\DecoratorPattern.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T07:49:17.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Coding\\EfCoreLearning\\DecoratorPattern\\DecoratorPattern\\Program.cs",
+              "RelativeDocumentMoniker": "DecoratorPattern\\Program.cs",
+              "ToolTip": "E:\\Coding\\EfCoreLearning\\DecoratorPattern\\DecoratorPattern\\Program.cs",
+              "RelativeToolTip": "DecoratorPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T07:47:46.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
