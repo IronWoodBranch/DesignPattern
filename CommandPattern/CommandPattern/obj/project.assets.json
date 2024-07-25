@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Coding\\DesignPattern\\CommandPattern\\CommandPattern\\CommandPattern.csproj",
+      "projectUniqueName": "E:\\Coding\\DesignPattern\\DesignPattern\\CommandPattern\\CommandPattern\\CommandPattern.csproj",
       "projectName": "CommandPattern",
-      "projectPath": "E:\\Coding\\DesignPattern\\CommandPattern\\CommandPattern\\CommandPattern.csproj",
+      "projectPath": "E:\\Coding\\DesignPattern\\DesignPattern\\CommandPattern\\CommandPattern\\CommandPattern.csproj",
       "packagesPath": "C:\\Users\\37575\\.nuget\\packages\\",
-      "outputPath": "E:\\Coding\\DesignPattern\\CommandPattern\\CommandPattern\\obj\\",
+      "outputPath": "E:\\Coding\\DesignPattern\\DesignPattern\\CommandPattern\\CommandPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

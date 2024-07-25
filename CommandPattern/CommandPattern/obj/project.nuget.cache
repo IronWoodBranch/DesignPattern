@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ObuOqPEiUI33FmbEQPd7lgBhem7P7mW6rpCD3U9r0FGZSi25nLDBQ+7qzu6FW9lQDrw5XUwXkPAvfik5t1pcMw==",
+  "dgSpecHash": "BLbzgBau4PsSfNpn8pQXlveNNw3r27sIvDaZD3cMiBBPWH6W3SbVLkMeD90BsxFTMlNxrZOXyoPxByYf1Tje7w==",
   "success": true,
-  "projectFilePath": "E:\\Coding\\DesignPattern\\CommandPattern\\CommandPattern\\CommandPattern.csproj",
+  "projectFilePath": "E:\\Coding\\DesignPattern\\DesignPattern\\CommandPattern\\CommandPattern\\CommandPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

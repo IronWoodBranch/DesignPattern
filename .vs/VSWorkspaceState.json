@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CommandPattern\\CommandPattern"
   ],
+  "SelectedNode": "\\CommandPattern",
   "PreviewInSolutionExplorer": false
 }

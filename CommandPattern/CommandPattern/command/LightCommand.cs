@@ -10,9 +10,9 @@ namespace CommandPattern.command
     internal class LightOnCommand:Command
     {
         Light _light { get; }
-        public LightOnCommand(Light ligth)
+        public LightOnCommand(Light light)
         {
-            this._light = ligth;
+            this._light = light;
         }
 
         public void execute()
