@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Coding\\DesignPattern\\DesignPattern\\Facade Pattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{557F4D83-5C3D-46C2-933B-8D3879839F31}|Facade Pattern\\Facade Pattern.csproj|e:\\coding\\designpattern\\designpattern\\facade pattern\\facade pattern\\subsystem\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557F4D83-5C3D-46C2-933B-8D3879839F31}|Facade Pattern\\Facade Pattern.csproj|solutionrelative:facade pattern\\subsystem\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557F4D83-5C3D-46C2-933B-8D3879839F31}|Facade Pattern\\Facade Pattern.csproj|e:\\coding\\designpattern\\designpattern\\facade pattern\\facade pattern\\hometheaterfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557F4D83-5C3D-46C2-933B-8D3879839F31}|Facade Pattern\\Facade Pattern.csproj|solutionrelative:facade pattern\\hometheaterfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557F4D83-5C3D-46C2-933B-8D3879839F31}|Facade Pattern\\Facade Pattern.csproj|e:\\coding\\designpattern\\designpattern\\facade pattern\\facade pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557F4D83-5C3D-46C2-933B-8D3879839F31}|Facade Pattern\\Facade Pattern.csproj|solutionrelative:facade pattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557F4D83-5C3D-46C2-933B-8D3879839F31}|Facade Pattern\\Facade Pattern.csproj|e:\\coding\\designpattern\\designpattern\\facade pattern\\facade pattern\\subsystem\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557F4D83-5C3D-46C2-933B-8D3879839F31}|Facade Pattern\\Facade Pattern.csproj|solutionrelative:facade pattern\\subsystem\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557F4D83-5C3D-46C2-933B-8D3879839F31}|Facade Pattern\\Facade Pattern.csproj|e:\\coding\\designpattern\\designpattern\\facade pattern\\facade pattern\\subsystem\\screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557F4D83-5C3D-46C2-933B-8D3879839F31}|Facade Pattern\\Facade Pattern.csproj|solutionrelative:facade pattern\\subsystem\\screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557F4D83-5C3D-46C2-933B-8D3879839F31}|Facade Pattern\\Facade Pattern.csproj|e:\\coding\\designpattern\\designpattern\\facade pattern\\facade pattern\\subsystem\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557F4D83-5C3D-46C2-933B-8D3879839F31}|Facade Pattern\\Facade Pattern.csproj|solutionrelative:facade pattern\\subsystem\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeTheaterFacade.cs",
+              "DocumentMoniker": "E:\\Coding\\DesignPattern\\DesignPattern\\Facade Pattern\\Facade Pattern\\HomeTheaterFacade.cs",
+              "RelativeDocumentMoniker": "Facade Pattern\\HomeTheaterFacade.cs",
+              "ToolTip": "E:\\Coding\\DesignPattern\\DesignPattern\\Facade Pattern\\Facade Pattern\\HomeTheaterFacade.cs",
+              "RelativeToolTip": "Facade Pattern\\HomeTheaterFacade.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:45:53.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "E:\\Coding\\DesignPattern\\DesignPattern\\Facade Pattern\\Facade Pattern\\SubSystem\\Movie.cs",
+              "RelativeDocumentMoniker": "Facade Pattern\\SubSystem\\Movie.cs",
+              "ToolTip": "E:\\Coding\\DesignPattern\\DesignPattern\\Facade Pattern\\Facade Pattern\\SubSystem\\Movie.cs",
+              "RelativeToolTip": "Facade Pattern\\SubSystem\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:42:36.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Coding\\DesignPattern\\DesignPattern\\Facade Pattern\\Facade Pattern\\SubSystem\\Player.cs",
+              "RelativeDocumentMoniker": "Facade Pattern\\SubSystem\\Player.cs",
+              "ToolTip": "E:\\Coding\\DesignPattern\\DesignPattern\\Facade Pattern\\Facade Pattern\\SubSystem\\Player.cs",
+              "RelativeToolTip": "Facade Pattern\\SubSystem\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:35:25.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Screen.cs",
+              "DocumentMoniker": "E:\\Coding\\DesignPattern\\DesignPattern\\Facade Pattern\\Facade Pattern\\SubSystem\\Screen.cs",
+              "RelativeDocumentMoniker": "Facade Pattern\\SubSystem\\Screen.cs",
+              "ToolTip": "E:\\Coding\\DesignPattern\\DesignPattern\\Facade Pattern\\Facade Pattern\\SubSystem\\Screen.cs",
+              "RelativeToolTip": "Facade Pattern\\SubSystem\\Screen.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAD4vw4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:33:49.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Radio.cs",
+              "DocumentMoniker": "E:\\Coding\\DesignPattern\\DesignPattern\\Facade Pattern\\Facade Pattern\\SubSystem\\Radio.cs",
+              "RelativeDocumentMoniker": "Facade Pattern\\SubSystem\\Radio.cs",
+              "ToolTip": "E:\\Coding\\DesignPattern\\DesignPattern\\Facade Pattern\\Facade Pattern\\SubSystem\\Radio.cs",
+              "RelativeToolTip": "Facade Pattern\\SubSystem\\Radio.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAD4vw8AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:31:03.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Coding\\DesignPattern\\DesignPattern\\Facade Pattern\\Facade Pattern\\Program.cs",
+              "RelativeDocumentMoniker": "Facade Pattern\\Program.cs",
+              "ToolTip": "E:\\Coding\\DesignPattern\\DesignPattern\\Facade Pattern\\Facade Pattern\\Program.cs",
+              "RelativeToolTip": "Facade Pattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T13:30:18.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

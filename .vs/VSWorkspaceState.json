@@ -1,8 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CommandPattern\\CommandPattern"
+    "\\Facade Pattern"
   ],
-  "SelectedNode": "\\CommandPattern",
+  "SelectedNode": "\\Facade Pattern\\SubSystem",
   "PreviewInSolutionExplorer": false
 }
