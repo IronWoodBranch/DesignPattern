@@ -1,0 +1,15 @@
+E:\Coding\DesignPattern\DesignPattern\TemplateMethod\TemplateMethod\bin\Debug\net8.0\TemplateMethod.exe
+E:\Coding\DesignPattern\DesignPattern\TemplateMethod\TemplateMethod\bin\Debug\net8.0\TemplateMethod.deps.json
+E:\Coding\DesignPattern\DesignPattern\TemplateMethod\TemplateMethod\bin\Debug\net8.0\TemplateMethod.runtimeconfig.json
+E:\Coding\DesignPattern\DesignPattern\TemplateMethod\TemplateMethod\bin\Debug\net8.0\TemplateMethod.dll
+E:\Coding\DesignPattern\DesignPattern\TemplateMethod\TemplateMethod\bin\Debug\net8.0\TemplateMethod.pdb
+E:\Coding\DesignPattern\DesignPattern\TemplateMethod\TemplateMethod\obj\Debug\net8.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\DesignPattern\DesignPattern\TemplateMethod\TemplateMethod\obj\Debug\net8.0\TemplateMethod.AssemblyInfoInputs.cache
+E:\Coding\DesignPattern\DesignPattern\TemplateMethod\TemplateMethod\obj\Debug\net8.0\TemplateMethod.AssemblyInfo.cs
+E:\Coding\DesignPattern\DesignPattern\TemplateMethod\TemplateMethod\obj\Debug\net8.0\TemplateMethod.csproj.CoreCompileInputs.cache
+E:\Coding\DesignPattern\DesignPattern\TemplateMethod\TemplateMethod\obj\Debug\net8.0\TemplateMethod.sourcelink.json
+E:\Coding\DesignPattern\DesignPattern\TemplateMethod\TemplateMethod\obj\Debug\net8.0\TemplateMethod.dll
+E:\Coding\DesignPattern\DesignPattern\TemplateMethod\TemplateMethod\obj\Debug\net8.0\refint\TemplateMethod.dll
+E:\Coding\DesignPattern\DesignPattern\TemplateMethod\TemplateMethod\obj\Debug\net8.0\TemplateMethod.pdb
+E:\Coding\DesignPattern\DesignPattern\TemplateMethod\TemplateMethod\obj\Debug\net8.0\TemplateMethod.genruntimeconfig.cache
+E:\Coding\DesignPattern\DesignPattern\TemplateMethod\TemplateMethod\obj\Debug\net8.0\ref\TemplateMethod.dll
